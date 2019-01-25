@@ -6,7 +6,7 @@ https://github.com/Drmirdeep/mirdeep2_patch
 
 and the latest release from 
 
-https://github.com/rajewsky-lab/mirdeep2 and https://www.mdc-berlin.de/8551903/en/
+https://github.com/rajewsky-lab/mirdeep2
 
 A recent miRDeep2 tutorial is available here 
 
